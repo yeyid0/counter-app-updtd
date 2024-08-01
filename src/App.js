@@ -1,11 +1,13 @@
-import Counter from './components/counter';
-function App() {
-  return (
-   
-    <Counter/>
+  import Counter from './components/counter';
+  import './App.css';
+  function App() {
+    return (
+    
+      <Counter/>
+      
+      
+      
+    );
+  }
 
-
-  );
-}
-
-export default App;
+  export default App;
